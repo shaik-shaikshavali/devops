@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER=$sha
+NUMBER=$1
 
 # -gt -> greater than
 # -lt -> less than
